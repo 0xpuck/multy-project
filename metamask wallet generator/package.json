@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ethers": "^6.0.0",
+    "googleapis": "^144.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  }
+}
