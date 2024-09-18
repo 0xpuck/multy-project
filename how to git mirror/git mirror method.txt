@@ -6,7 +6,7 @@ Command To Change User.
 
 $git filter-branch --env-filter '
 NEW_NAME="0xbnck"
-NEW_EMAIL="alocparker1220@gmail.com"
+NEW_EMAIL="example@gmail.com"
 
 if [ "$GIT_COMMITTER_EMAIL" != "$NEW_EMAIL" ]
 then
